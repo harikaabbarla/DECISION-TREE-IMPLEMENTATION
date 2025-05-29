@@ -96,7 +96,7 @@ Classification Report:                precision    recall  f1-score   support
    macro avg       0.72      0.60      0.61       200
 weighted avg       0.73      0.74      0.70       200
 
-
+![Image](https://github.com/user-attachments/assets/edc73784-2350-4648-a48e-f17268cd915f)
 
 
 Accuracy Score(gini) is: 0.745000
