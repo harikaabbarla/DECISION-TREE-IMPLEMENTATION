@@ -109,8 +109,6 @@ Classification report is:                precision    recall  f1-score   support
    macro avg       0.71      0.61      0.61       200
 weighted avg       0.73      0.74      0.71       200
 
-
-![Image](https://github.com/user-attachments/assets/edc73784-2350-4648-a48e-f17268cd915f)
-
+![Image](https://github.com/user-attachments/assets/37b02693-be49-4b0c-9fd7-83cec0745e44)
 
 
