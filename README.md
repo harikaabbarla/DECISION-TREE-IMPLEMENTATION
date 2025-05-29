@@ -3,7 +3,7 @@ COMPANY: CODTECH IT SOLUTIONS
 
 NAME: ABBARLA HARIKA
 
-INTERN ID: CT06DL832
+INTERN ID: CT06DN519
 
 DOMAIN: MACHINE LEARNING
 
@@ -84,3 +84,30 @@ plot_tree() This method visualizes the decision tree structure.
 Dataset: The dataset contains 1000 records and 21 columns. It is related to credit risk assessment the dataset contains data to classify wether a person has a good or bad credit risk.
 
 Based on features such as age,savings,employment,credit_history and more..The target variable is credit_risk which is binary.
+
+** OUTPUT **
+Model accuracy (entropy): 0.745000
+Classification Report:                precision    recall  f1-score   support
+
+           0       0.68      0.25      0.37        59
+           1       0.75      0.95      0.84       141
+
+    accuracy                           0.74       200
+   macro avg       0.72      0.60      0.61       200
+weighted avg       0.73      0.74      0.70       200
+
+
+
+
+Accuracy Score(gini) is: 0.745000
+Classification report is:                precision    recall  f1-score   support
+
+           0       0.67      0.27      0.39        59
+           1       0.76      0.94      0.84       141
+
+    accuracy                           0.74       200
+   macro avg       0.71      0.61      0.61       200
+weighted avg       0.73      0.74      0.71       200
+
+
+
