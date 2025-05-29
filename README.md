@@ -110,4 +110,7 @@ Classification report is:                precision    recall  f1-score   support
 weighted avg       0.73      0.74      0.71       200
 
 
+![Image](https://github.com/user-attachments/assets/edc73784-2350-4648-a48e-f17268cd915f)
+
+
 
